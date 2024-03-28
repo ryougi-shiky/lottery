@@ -22,10 +22,4 @@ You can deploy this application to Vercel with just a few steps:
 
 ### Deploy Button
 
-To make it even easier, you can add a Deploy to Vercel button to your `README.md` that allows others to deploy your project with a single click. Add the following markdown code to your `README.md`:
-
-```markdown
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=<YOUR_GITHUB_REPOSITORY_URL>)
-```
-
-Replace `<YOUR_GITHUB_REPOSITORY_URL>` with the URL of your GitHub repository so others can deploy your project directly from your `README.md`.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=<YOUR_GITHUB_REPOSITORY_URL>)
