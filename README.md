@@ -6,7 +6,7 @@ This website is for draw lottery in class activity
 
 ## Deploy to Vercel
 
-You can deploy this application to Vercel with just a few steps:
+You can [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=<YOUR_GITHUB_REPOSITORY_URL>) this application to Vercel with just a few steps:
 
 1. **Fork or clone this repository**
 
@@ -19,7 +19,3 @@ You can deploy this application to Vercel with just a few steps:
 5. **Deploy the project**: Click the “Deploy” button. Vercel will handle the deployment process automatically.
 
 6. **Access your application**: After the deployment finishes, Vercel will provide a URL to access your application.
-
-### Deploy Button
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=<YOUR_GITHUB_REPOSITORY_URL>)
